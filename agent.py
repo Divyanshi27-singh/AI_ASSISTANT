@@ -8,7 +8,7 @@ import wikipedia
 import time
 
 # ============ CONFIG ============
-OPENWEATHER_API_KEY = "131cd7731381e72dbd5b65bbc972035d"
+OPENWEATHER_API_KEY = "YIUR API KEY"
 
 # ============ SESSION STATE ============
 if 'response' not in st.session_state:
